@@ -28,7 +28,7 @@ latest_posts:
 
 ---
 
-Welcome! I am currently a PhD student in Mathematics at the University of Hamburg (UHH), supervised by [Melanie Graf](https://grafmelanie.wordpress.com/) and co-supervised by [Eleni-Alexandra Kontou](https://sites.google.com/site/elenialexandrakontou/). I expect to complete my degree in September 2026.
+Welcome! I am Eduardo Hafemann, a PhD student in Mathematics at the University of Hamburg (UHH), supervised by [Melanie Graf](https://grafmelanie.wordpress.com/) and co-supervised by [Eleni-Alexandra Kontou](https://sites.google.com/site/elenialexandrakontou/). I am expected to complete my degree in September 2026.
 
 My research lies in geometric analysis and mathematical relativity, focusing on geometric inequalities, positive mass theorems, and low-regularity techniques. In particular, my work includes a low-regularity positive mass theorem and Penrose-type inequalities under weakened energy conditions inspired by quantum field theory.
 
