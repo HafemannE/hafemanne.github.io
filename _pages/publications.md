@@ -11,22 +11,33 @@ nav_order: 2
 Below are my research works, grouped by field.
 
 <div class="publications">
-<h2>Mathematical Relavitiy</h2>
+<div style="font-weight:500; font-size:1.0rem; margin-top:2rem; margin-bottom:0rem;">
+  Mathematical Relativity
+</div>
 {% bibliography --query @article[field=GR]* %}
 
-<h2>Inverse Problems</h2>
+<div style="font-weight:500; font-size:1.0rem; margin-top:2rem; margin-bottom:0rem;">
+  Inverse Problems
+</div>
 {% bibliography --query @article[field=IP]* %}
 
-<h2>Particle Physics</h2>
+<div style="font-weight:500; font-size:1.0rem; margin-top:2rem; margin-bottom:0rem;">
+  Particle Physics
+</div>
 {% bibliography --query @article[field=PP]* %}
 
-<h2>Chemical Engineering</h2>
+<div style="font-weight:500; font-size:1.0rem; margin-top:2rem; margin-bottom:0rem;">
+  Chemical Engineering
+</div>
 {% bibliography --query @article[field=CE]* %}
 
-<h2>Books</h2>
-{% bibliography --query @book[field=IP]* %}
+<div style="font-weight:500; font-size:1.0rem; margin-top:2rem; margin-bottom:0rem;">
+Books
+</div>
+{% bibliography --query @article[field=book]* %}
 
-<h2>Master Thesis</h2>
+<div style="font-weight:500; font-size:1.0rem; margin-top:2rem; margin-bottom:0rem;">
+Master Thesis
+</div>
 {% bibliography --query @mastersthesis[field=GR]* %}
-
 </div>

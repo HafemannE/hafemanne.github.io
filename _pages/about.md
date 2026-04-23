@@ -31,8 +31,11 @@ latest_posts:
 
 Welcome! I am Eduardo Hafemann, a PhD student in Mathematics at the University of Hamburg (UHH), supervised by [Melanie Graf](https://grafmelanie.wordpress.com/) and co-supervised by [Eleni-Alexandra Kontou](https://sites.google.com/site/elenialexandrakontou/). I am expected to complete my degree in September 2026.
 
-My research lies in geometric analysis and mathematical relativity, focusing on geometric inequalities, positive mass theorems, and low-regularity techniques. In particular, my work includes a low-regularity positive mass theorem and Penrose-type inequalities under weakened energy conditions inspired by quantum field theory.
+I am interested in geometric analysis and mathematical relativity, mostly in geometric inequalities, positive mass theorems, and low-regularity techniques.
 
-I received my MSc in Mathematics, supervised by [Ivan Pontual Costa e Silva](http://lattes.cnpq.br/9422893357132293), and my BSc in Chemical Engineering from the Federal University of Santa Catarina (UFSC), Brazil. My CV is [here](/assets/pdf/CV.pdf).
+I received my MSc in Mathematics, supervised by [Ivan Pontual Costa e Silva](http://lattes.cnpq.br/9422893357132293), and my BSc in Chemical Engineering from the Federal University of Santa Catarina (UFSC), Brazil.
 
-To contact me, please email [eduardo.hafemann@uni-hamburg.de](mailto:eduardo.hafemann@uni-hamburg.de)
+My CV is [here](/assets/pdf/CV.pdf).
+
+Email: eduardo [dot] hafemann [at] uni-hamburg [dot] de
+
